@@ -6,6 +6,8 @@
 
 //NoComment
 
+//Aaa
+
 int search(int t_1, int t_2, int B, std::vector<std::vector<int>>& G);
 
 int main(){
